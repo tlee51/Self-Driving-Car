@@ -8,3 +8,4 @@ Implemented components step-by-step: car driving mechanics, environment, sensors
 Artificial neural network based on real neural networks in our brain, with visualization.
 
 ![Demonstration 1](https://github.com/tlee51/Self-Driving-Car/blob/main/carphoto.PNG)
+![Demonstration 2](https://github.com/tlee51/Self-Driving-Car/blob/main/carphoto2.PNG)
