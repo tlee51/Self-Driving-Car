@@ -6,3 +6,5 @@ Created a neural network using Javascript with no libraries.
 
 Implemented components step-by-step: car driving mechanics, environment, sensors, collision detection, car self-control using neural network.
 Artificial neural network based on real neural networks in our brain, with visualization.
+
+![Demonstration 1](https://github.com/tlee51/Self-Driving-Car/blob/main/carphoto.PNG)
